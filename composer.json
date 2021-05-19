@@ -1,0 +1,12 @@
+{
+    "name": "charlesrd/aggregate-report",
+    "description": "A simple program that aggregates the data from a CSV file.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Charles Dyke",
+            "email": "charlesrdyke@gmail.com"
+        }
+    ],
+    "require": {}
+}
