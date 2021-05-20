@@ -27,6 +27,8 @@ cd aggregate-report
 php index.php
 ```
 
+After running index.php, an output.json file will be created in the root directory of the project
+
 ### Prerequisites
 
 The following must be installed on your system:
