@@ -8,7 +8,7 @@
 
 ## About <a name = "about"></a>
 
-This is a simple program that aggregates data from a CSV file.
+This is a simple program that aggregates totals from a CSV file and saves the data to an output.json file.
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -27,13 +27,13 @@ cd aggregate-report
 php index.php
 ```
 
-After running index.php, an output.json file will be created in the root directory of the project
+After running index.php, an output.json file will be created in the root directory of the project.
 
 ### Prerequisites
 
 The following must be installed on your system:
 
-PHP, Composer
+PHP 7+
 
 ## Usage <a name = "usage"></a>
 
